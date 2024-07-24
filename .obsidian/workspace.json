@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "91d05c7dc77d914b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9f187c33b4a1cb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372511a363f4d9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "什么是构建工具？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b88f0e2a53aeb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e4302fecd2042df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd8c61667f084f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b1e4cd1b6e81917",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "643623a7f92ed135",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "23290553ecd03779",
+    "type": "split",
+    "children": [
+      {
+        "id": "189b96f6b332cfc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a00cb761db039047",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "什么是构建工具？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "322b2e563e2c774a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "什么是构建工具？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6c8431b8cb1affc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7d33fb45f2ae95d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "什么是构建工具？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "372511a363f4d9c7",
+  "lastOpenFiles": [
+    "欢迎.md",
+    "什么是构建工具？.md",
+    "Vite"
+  ]
+}
