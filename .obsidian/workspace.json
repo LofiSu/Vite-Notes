@@ -30,9 +30,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e07391ed03adc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create-vite脚手架.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf09b13cedf2037c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vite启动项目初体验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "829cff3330e55a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vite的依赖预构建.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaf14d20d56167b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vite启动项目初体验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89cae0f2e5e45e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拓展知识点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "802c78500475fed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vite环境变量处理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d07318c1856ffdc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【原理篇】Vite开发服务器搭建原理以及为什么Vite可以让浏览器识别.vue文件解释.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5f0fbe4cc86806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vite的依赖预构建.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -82,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "23290553ecd03779",
@@ -99,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vite相较于Webpack的优势.md",
+                "file": "拓展知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vite相较于Webpack的优势.md",
+                "file": "拓展知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vite相较于Webpack的优势.md"
+                "file": "拓展知识点.md"
               }
             }
           }
@@ -160,10 +255,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e3bb9d2ec1829ba",
+  "active": "89cae0f2e5e45e2d",
   "lastOpenFiles": [
-    "什么是构建工具？.md",
+    "Vite的依赖预构建.md",
+    "拓展知识点.md",
+    "Vite启动项目初体验.md",
+    "Vite配置文件语法提示以及开发环境和生产环境.md",
+    "Vite环境变量处理.md",
+    "【原理篇】Vite开发服务器搭建原理以及为什么Vite可以让浏览器识别.vue文件解释.md",
+    "Vite中对css以及css模块化的简单处理.md",
+    "Create-vite脚手架.md",
     "Vite相较于Webpack的优势.md",
+    "什么是构建工具？.md",
     "欢迎.md",
     "Vite"
   ]
